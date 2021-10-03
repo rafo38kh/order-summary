@@ -20,9 +20,10 @@ html {
 
 body {
   background-color: var(--color-primary);
-  background-image: url("./img/pattern-background-desktop.svg");
+  background-image: url(./img/pattern-background-desktop.svg);
   background-repeat: no-repeat;
   background-position: top;
+  background-size: contain;
   font-family: "Red Hat Display", sans-serif;
   display: flex;
   align-items: center;
