@@ -162,3 +162,21 @@ body {
 .card__link:hover {
   color: var(--color-secondary--dark);
 }
+
+.attribution {
+  font-size: 10px;
+  text-align: center;
+  margin: 10px 0 5px 0;
+}
+
+.attribution__link:link,
+.attribution__link:visited {
+  text-transform: uppercase;
+  color: var(--color-primary--dark);
+  transition: all 0.2s;
+}
+
+.attribution__link:hover,
+.attribution__link:active {
+  color: var(--color-secondary);
+}
