@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-with-html-and-css-TVyM4Og4-](https://your-solution-url.com)
-- Live Site URL: [https://rafo38kh.github.io/order-summary/](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-with-html-and-css-TVyM4Og4-](https://www.frontendmentor.io/solutions/order-summary-component-with-html-and-css-TVyM4Og4-)
+- Live Site URL: [https://rafo38kh.github.io/order-summary/](https://rafo38kh.github.io/order-summary/)
 
 ## My process
 
@@ -38,13 +38,8 @@ Users should be able to:
 - CSS custom properties
 - CSS Flexbox
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@rafo38kh](https://www.frontendmentor.io/profile/rafo38kh)
+- GitHub - [@rafo38kh](https://github.com/rafo38kh)
+- Codewars - [@rafo38kh](https://www.codewars.com/users/rafo38kh)
